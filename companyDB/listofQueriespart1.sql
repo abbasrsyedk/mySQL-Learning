@@ -1,0 +1,9 @@
+-- SELECT * FROM employee;
+-- SELECT * FROM employee ORDER BY salary DESC;
+-- SELECT * FROM employee ORDER BY sex, first_name, last_name;
+-- SELECT * FROM employee limit 5;
+-- SELECT distinct sex FROM employee;
+-- SELECT * FROM client WHERE client_name LIKE '%LLC';
+-- SELECT * FROM branch_supplier WHERE supplier_name LIKE '%Label%';
+-- SELECT * FROM employee WHERE birth_day LIKE '____-10%'; to find employeees born in october
+-- SELECT * FROM client WHERE client_name LIKE '%school%';
